@@ -1,0 +1,4 @@
+return {
+["KS_G66"] = true,
+--[""] = true,
+}
