@@ -1,4 +1,4 @@
 return {
 ["KS_G66"] = true,
---[""] = true,
+["CN_laoguo9"] = true,
 }
